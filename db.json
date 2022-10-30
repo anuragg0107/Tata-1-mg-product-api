@@ -53,19 +53,8 @@
             "discount":"36% off" ,
             "mrp": 249,
             "bottle":"Box of 1 glucometer machine" ,
-            "rating":" ratings"   
+            "rating":"10 ratings"   
         },
-        {
-            "id": 5,
-            "title":"AccuSure AS-Series Automatic Blood Pressure Machine ",
-            "price":1322 ,
-            "star" :3.9,
-            "image":"https://onemg.gumlet.io/images/f_auto,h_150,c_fit,q_auto,w_150/cropped/rpaxgig44owtdxztolqk/accusure-as-series-automatic-blood-pressure-monitoring-system.jpg ",
-            "discount":"14% off" ,
-            "mrp": 1540,
-            "rating":"20 ratings",
-            "bottle":"pack of 1 machine"         
-},
         {
             "id": 6,
             "title":"Tata 1mg Senior 50+ Multivitamin & Multimineral Capsules ",
